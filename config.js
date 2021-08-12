@@ -5,8 +5,7 @@ const CONFIG = {
     title: 'Mn mà thoát ra là tui đấm á 👊👊',
     desc: 'Điểm mn ấn tượng ở tui nè 😪😪',
     btnYes: 'Dễ thương quá chời',
-    btnNo: 'Vì tui hát quá hay 🥲🥲
-',
+    btnNo: 'Tui hát quá hay 🥲🥲',
     question:'Có thích tui honggg?',
     btnReply: 'Gửi cho tui nè',
     reply: 'Đương nhiên gòi, Nguyên tuyệt zời vậy mà 🤭🤭',
